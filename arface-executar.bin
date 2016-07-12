@@ -1,0 +1,1 @@
+caffe train -solver arface-solver.prototxt  -weights ../VGG_FACE.caffemodel -gpu 0
